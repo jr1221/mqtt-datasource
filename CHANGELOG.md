@@ -1,5 +1,47 @@
 # Changelog
 
+## 1.3.6
+
+🐛 Security: bump out-of-SLO react-router to 6.30.4
+
+⚙️ Updated frontend & backend dependencies
+
+📝 Docs: Update contributing document
+
+## 1.3.5
+
+⚙️ Updated frontend & backend dependencies
+
+## 1.3.4
+
+Failed to publish. Use 1.3.5 instead.
+
+## 1.3.3
+
+⚙️ Updated frontend & backend dependencies
+
+## 1.3.2
+
+⚙️ Updated frontend dependencies
+
+## 1.3.1
+
+⚙️ Updated backend/go version to 1.26.0 from 1.25.6 which resolves CVE-2025-68121
+
+⚙️ Updated frontend & backend dependencies
+
+## 1.3.0
+
+🚀 Introduce PDC (Private data source connect)
+🚀 Bump dependency versions to be prepared for react-19 upgrade and enable react-19 e2e testing
+🐛 Update @grafana/plugin-ui
+🐛 Fix: Fallback SHA-1 function if browser's not available
+🐛 Update dependencies
+
+## 1.2.1
+
+🐛 Update versions of various dependencies
+
 ## [1.2.0] - 2025-09-10
 
 - Add support for raw string values

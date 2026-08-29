@@ -13,6 +13,8 @@
     "**/dashboards/*.json",
     "src/static/**",
     "vendor/**",
+    "renovate.json",
+    "package.json",
     "yarn.lock",
     ".eslintcache"
   ],
@@ -37,6 +39,11 @@
     "jsoniter",
     "subresource",
     "streamingkey",
-    "unsub"
+    "unsub",
+    "tcps",
+    "mqtts",
+    "mosquitto",
+    "jsonencode",
+    "magefile"
   ]
 }
